@@ -1,6 +1,6 @@
 # COSI136a-Assessment-2
 
-Using an ASR corpus to train and evaluate an ASR system. Created by Steven Rud and Daniel Mints. 
+Using an ASR corpus to train and evaluate an ASR system. *Created by Steven Rud and Daniel Mints*. 
 
 The Wav2Vec2+CTC Model.py code creates the Wav2Vec2+CTC Model. This has already been created and uploaded by us. 
 
